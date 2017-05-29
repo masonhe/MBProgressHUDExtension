@@ -34,9 +34,7 @@
 }
 
 - (IBAction)showTipAction:(id)sender {
-    [MBProgressHUD showHUDWithAlertText:@"普通提示" view:self.view];
-    
-    [MBProgressHUD showHUDWithCustom:@"图片名称" withText:@"提示语" view:@"添加在哪个视图" autoHide:@"是否自动消失"];
+    [MBProgressHUD showHUDWithAlertText:@"普通提示" view:self.view];    
 }
 
 - (void)didReceiveMemoryWarning {
