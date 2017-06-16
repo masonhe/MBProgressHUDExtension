@@ -10,4 +10,4 @@
 5.自定义图标[MBProgressHUD showHUDWithCustom:@"icon名称" withText:@"提示语" view:@"添加在哪个视图" autoHide:@"是否自动消失"];
 
 
-
+[测试](http://www.baidu.com)
